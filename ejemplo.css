@@ -3,16 +3,16 @@ header, footer {
   position: fixed;
   padding: 20px 0;
   box-sizing: border-box;
-  color: #c3c1c1;
+  color: #1465fad7;
   width: 100%; }
 
 .layout_a {
-  color: #c3c1c1; }
+  color: #e61822; }
   .layout_a:hover {
     text-decoration: underline;
     color: #FFF;
-    background-color: red;
-    border: 1px solid blue;
+    background-color: rgba(0, 255, 85, 0.959);
+    border: 1px solid rgb(255, 0, 128);
     font-size: 20px; }
 
 header {
